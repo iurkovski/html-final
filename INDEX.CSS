@@ -1,0 +1,82 @@
+header{
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color:#04BFAD ;
+    padding: 35px 35px;
+    border-bottom: 100px;
+
+    border: 1px solid black;
+    
+
+    }
+h1{
+    text-align: center;
+}
+aside{
+    background-color: blue;
+    justify-content: space-between;
+}
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#mercado{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 16px;
+    align-items: end;
+}
+
+#pai{
+    text-align: center;
+    text-shadow: 1px 1px;
+    font-size: 20px;
+    position: relative;
+
+}
+
+#filho1{
+    text-align: center;
+    text-shadow: 1px 1px;
+    font-size: 20px;
+}
+#filho2{
+    text-align: center;
+    text-shadow: 1px 1px;
+    font-size: 20px;
+
+}
+.canetabrinde{
+    position: relative;
+    text-align: center;
+    text-shadow: 1px 1px;
+    font-size: 20px;
+    margin: 350px;
+    margin-left: -910px;
+    
+
+}
+.sidebar{
+    position: fixed;
+    background-color:#012626;
+        border: 3px black solid;
+        margin: 13.9rem -7rem;
+        width: 22rem;
+        height: 90rem;
+}
+li{
+    padding-bottom: 2rem;
+    margin-right: -2rem;
+}
+.foter{
+    background-color: #04BFAD;
+position: absolute;
+border: 3px black solid;
+width: 99.6rem;
+height: 4.2rem;
+margin: 39.70rem 17.5rem;
+}
